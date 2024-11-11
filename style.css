@@ -1,0 +1,10 @@
+.Assessment{
+    width: 150px;
+    height: 200px;
+    border-style: dashed;
+}
+.blue{
+    width: 150px;
+    background-color: blue;
+    height: 100px;
+}
