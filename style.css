@@ -8,3 +8,13 @@
     background-color: blue;
     height: 100px;
 }
+.Assessment{
+    width: 150px;
+    height: 200px;
+    border-style: dotted;
+}
+.brown{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+}
