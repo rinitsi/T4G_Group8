@@ -8,7 +8,7 @@
     background-color: blue;
     height: 100px;
 }
-.Assessment{
+.Assessment 1{
     width: 150px;
     height: 200px;
     border-style: dotted;
@@ -17,4 +17,64 @@
     width: 150px;
     height: 100px;
     background-color: brown;
+}
+.Assessment 2{
+    width: 150px;
+    height: 200px;
+    border-style: double;
+}
+.green{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+}
+.Assessment 3{
+    width: 150px;
+    height: 200px;
+    border-style: groove;
+}
+.red{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+}
+.Assessment 4{
+    width: 150px;
+    height: 200px;
+    border-style: inherit;
+}
+.orange{
+    width: 150;
+    height: 100px; ;
+    background-color: orange;
+}
+.Assessment 5{
+    width: 150px;
+    height: 200px;
+    border-style: outset;
+}
+.tomato{
+    width: 150px;
+    height: 100;
+    background-color: tomato;
+}
+.Assessment 6{
+    width: 150px;
+    height: 200px;
+    border-style: outset;
+}
+.violet{
+    width: 150px;
+    height: 100px;
+    background-color: violet;
+}
+.Assessment{
+    width: 150px;
+    height: 200px;
+    border-style: dashed;
+}
+.pink{
+    width: 150px;
+    height: 100;
+    background-color: pink;
 }
